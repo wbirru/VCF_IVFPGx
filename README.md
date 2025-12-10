@@ -1,8 +1,8 @@
-# IVF Drug-Gene Interaction Analyzer
+# IVF Drug-Gene Interaction Analyser
 
 ## Overview
 
-The **IVF Drug-Gene Interaction Analyzer** is a clinical decision support tool designed for healthcare providers in reproductive medicine. It provides pharmacogenomic insights to guide personalized IVF medication selection and dosing based on patient genetic variants.
+The **IVF Drug-Gene Interaction Analyser** is a clinical decision support tool designed for healthcare providers in reproductive medicine. It provides pharmacogenomic insights to guide personalised IVF medication selection and dosing based on patient genetic variants.
 
 ## 🎯 Purpose
 
@@ -21,7 +21,7 @@ This tool helps clinicians:
 
 ## 📊 Covered Medications
 
-The tool analyzes **9 common IVF medications**:
+The tool analyses **9 common IVF medications**:
 
 1. **FSH (Follitropin alfa/delta)** - Genes: FSHR, FSHB
 2. **Metformin** - Genes: SLC22A1, SLC47A1, ATM
@@ -38,7 +38,7 @@ The tool analyzes **9 common IVF medications**:
 ### Core Functionality
 - **Variant Input**: Enter patient pharmacogenomic test results
 - **Automated Analysis**: Cross-reference variants against comprehensive drug-gene database
-- **Prioritized Results**: Clinically significant findings displayed first
+- **Prioritised Results**: Clinically significant findings displayed first
 - **Evidence Grading**: Tier A/B/C evidence classification
 - **Database Links**: Direct access to ClinVar, PharmGKB, and PubMed
 
@@ -94,7 +94,7 @@ The application will open automatically in your default web browser at `http://l
 3. **Generate Report**
    - Click "🔬 Generate Pharmacogenomic Report"
    - Review medications with clinically significant variants (displayed first)
-   - Access additional analyzed medications in collapsible section
+   - Access additional analysed medications in collapsible section
 
 4. **Review Clinical Recommendations**
    - Read impact descriptions
@@ -121,7 +121,7 @@ GHR d3/d3
 - 🔼 **Increased Exposure**: Enhanced drug levels, monitor closely
 - ✅ **Increased Response**: Better therapeutic response expected
 - ➖ **Normal/Moderate**: Standard protocols appropriate
-- ⚠️ **Altered**: Variable response, individualized monitoring
+- ⚠️ **Altered**: Variable response, individualised monitoring
 
 #### Evidence Tiers
 - **Tier A**: Strong evidence from multiple studies/meta-analyses
