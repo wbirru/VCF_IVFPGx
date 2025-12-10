@@ -13,7 +13,7 @@ import streamlit as st
 
 # Page configuration
 st.set_page_config(
-    page_title="IVF Drug-Gene Analyzer",
+    page_title="IVF Drug-Gene Analyser",
     page_icon="🧬",
     layout="wide",
     initial_sidebar_state="collapsed"
@@ -533,8 +533,8 @@ def main():
     # Header
     st.markdown("""
     <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 2rem; border-radius: 1rem; color: white; margin-bottom: 2rem;">
-        <h1 style="margin: 0; font-size: 2.5rem;">🧬 IVF Drug-Gene Interaction Analyzer</h1>
-        <p style="margin: 0.5rem 0 0 0; opacity: 0.9;">Personalized medication insights based on your genetic variants</p>
+        <h1 style="margin: 0; font-size: 2.5rem;">🧬 IVF Drug-Gene Interaction Analyser</h1>
+        <p style="margin: 0.5rem 0 0 0; opacity: 0.9;">Personalised medication insights based on your genetic variants</p>
     </div>
     """, unsafe_allow_html=True)
     
